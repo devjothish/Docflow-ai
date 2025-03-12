@@ -96,20 +96,23 @@ echo "GOOGLE_API_KEY=your_api_key_here" > .env
 
 # Run the app
 streamlit run app.py
-🚀 How to Use DocFlow AI
+```
+
+---
+
+## How to Use DocFlow AI
 1️⃣ Upload PDFs via the chat interface.
 2️⃣ Click "Process PDFs" to create a searchable index.
 3️⃣ Type a question, and DocFlow AI will retrieve relevant answers.
 4️⃣ Each response shows the PDF name and page number for easy reference.
 
-📢 Get Involved
+### Get Involved
 If you find DocFlow AI useful, here’s how you can contribute:
 
-🔗 GitHub Repository: DocFlow AI Repo
-💡 Got feedback or feature ideas? Let me know!
+Got feedback or feature ideas? Let me know!
 
-👨‍💻 About the Creator
+### 👨‍💻 About the Creator
 I built DocFlow AI because I wanted to solve a real problem—and I’m excited to share this through the AI Builders Series. Stay tuned for more AI projects!
 
-Happy Building! 🚀
-Jothiswaran Arumugam 👨‍💻
+## Happy Building! 🚀
+### Jothiswaran Arumugam 👨‍💻
